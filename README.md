@@ -1,5 +1,5 @@
-- 👋 Howdy I'm Josh.
-- 👀 Studing Boostrap currently.
+- 👋 Howdy I'm Josh. I live in Nashville, TN.
+- 👀 Studying Boostrap currently.
 - 🌱 My goal is to have the technical skills in software development, JavaScript, CSS, & HTML, utlizing Bootstrap, JSQuery, React, and AJAX..
 - 📫 How to reach me via linkedIn >> https://www.linkedin.com/in/joshtg/
 
