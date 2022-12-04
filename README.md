@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joshtgross, or Josh. Currently reside in Tennessee, U.S.A.
-- 👀 I’m interested digging deep into the how, why, and what for of development.
-- 🌱 I’m currently learning technical skills in software development, JavaScript, CSS, & HTML, utlizing Bootstrap, JSQuery, React, and AJAX..
-- 💞️ I’m looking to collaborate on group projects.
+- 👋 Howdy I'm Josh.
+- 👀 Studing Boostrap currently.
+- 🌱 My goal is to have the technical skills in software development, JavaScript, CSS, & HTML, utlizing Bootstrap, JSQuery, React, and AJAX..
 - 📫 How to reach me via linkedIn >> https://www.linkedin.com/in/joshtg/
 
 <!---
